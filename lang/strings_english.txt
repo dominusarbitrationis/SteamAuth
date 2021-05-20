@@ -1,0 +1,11 @@
+<?php
+
+$s_plugin_SteamAuth_title = 'SteamAuth';
+
+$s_plugin_SteamAuth_login = 'Sign in with Steam';
+$s_plugin_SteamAuth_steamAPIKeyId = 'Steam API Key';
+$s_plugin_SteamAuth_domainName	 = 'Your Domain Name';
+
+$s_plugin_SteamAuth_description = 'Make MantisBT refer to SMF installation and logins for user account authentication.';
+$s_plugin_SteamAuth_config_title = 'SteamAuth Configuration';
+$s_plugin_SteamAuth_action_update = 'Update';
